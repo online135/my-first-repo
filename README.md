@@ -1,2 +1,2 @@
 # my-first-repo
-DEV275x's practic
+DEV275x's practice
